@@ -1,4 +1,4 @@
-![LaunchBoard, expanded](https://i.imgur.com/cg3tDIU.png)
+![LaunchBoard, expanded](https://i.imgur.com/qOccLbe.png)
 # LaunchBoard
 ## An Ableton Live device to turn a LaunchPad into a Guitar
 
