@@ -10,6 +10,8 @@ You can add octave controls by mapping the octave parameters to the buttons on y
 
 Max is NOT required to use this.
 
+I'm _pretty sure_ this will work for the Push or any other 8x8 pad controller, but I don't have one to confirm with.
+
 ## Versions
 ### 0.1.1
 - Add -Octave/+Octave switches for mapping to modifier keys. 
